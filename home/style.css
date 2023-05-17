@@ -1,0 +1,69 @@
+.navbar {
+    overflow: hidden;
+    background-color: rgb(8, 91, 107);
+  }
+  
+ .navbarclic {
+    float: center;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+  }
+
+body {
+    margin: 0;
+  }
+
+
+.foto{
+    max-width: 300px;
+    text-align: center;
+
+  
+ 
+
+}
+
+
+
+/* .foto1 {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  
+  
+.foto2{
+    width: 100%;
+    height: auto;
+  } */
+
+footer{
+ 
+    background-color: rgb(8, 91, 107);
+    float: center;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 12px 14px;
+    font-size: 20px;
+   
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+  }
+
+
+
+
+
+
+
+
+
